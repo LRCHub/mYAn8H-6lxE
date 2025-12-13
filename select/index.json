@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "畢竟",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2025-12-13T10:17:07.732025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "畢竟",
+      "artist": "張懸",
+      "has_synced": true,
+      "path": "select/01_畢竟_張懸.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "畢竟",
+      "artist": "Deserts Chang",
+      "has_synced": true,
+      "path": "select/02_畢竟_Deserts_Chang.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "畢竟",
+      "artist": "Oaeen",
+      "has_synced": true,
+      "path": "select/03_畢竟_Oaeen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "畢竟 (Live in summer)",
+      "artist": "蘇打綠",
+      "has_synced": true,
+      "path": "select/04_畢竟_(Live_in_summer)_蘇打綠.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "畢竟",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/05_畢竟_DUSTCELL.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "畢竟 (Inst.)",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/06_畢竟_(Inst.)_DUSTCELL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "畢竟",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_畢竟_DUSTCELL.txt"
+    }
+  ]
+}
